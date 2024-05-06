@@ -2,6 +2,8 @@ FreHD-SMD
 ======
 An SMD version of Frederic Vecoven's 2.14 FreHD board for the TRS-80 1, 3, 4.
 
+From the original repo I forked ...
+-----------------------------------
 
 OriginalVecovenFiles
 --------------------
